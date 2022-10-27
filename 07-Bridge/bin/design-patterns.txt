@@ -1,0 +1,7 @@
+1; Singleton; Creational; Ensure a class only has one instance
+2; Prototype; Creational; Specify the kinds of objects to 
+3; Factory Method; Creational; Define an interface for creating 
+4; Abstract Factory; Creational; Provide an interface for creating families 
+5; Builder; Creational; Separate the construction of a 
+6; Adapter; Structural; Convert the interface of a class 
+7; Bridge; Structural; Decouple an abstraction from its 

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<design-patterns>
+	<design-patern id="1">
+		<name>Singleton</name>
+		<categroy>Creational</categroy>
+		<intent>Ensure a class only has one instance</intent>
+	</design-patern>
+	<design-patern id="2">
+		<name>Prototype</name>
+		<categroy>Creational</categroy>
+		<intent>Specify the kinds of objects to </intent>
+	</design-patern>
+	<design-patern id="3">
+		<name>Factory Method</name>
+		<categroy>Creational</categroy>
+		<intent>Define an interface for creating </intent>
+	</design-patern>
+	<design-patern id="4">
+		<name>Abstract Factory</name>
+		<categroy>Creational</categroy>
+		<intent>Provide an interface for creating families</intent>
+	</design-patern>
+	<design-patern id="5">
+		<name>Builder</name>
+		<categroy>Creational</categroy>
+		<intent>Separate the construction of a </intent>
+	</design-patern>
+	<design-patern id="6">
+		<name>Adapter</name>
+		<categroy>Creational</categroy>
+		<intent>Separate the construction of a </intent>
+	</design-patern>
+	<design-patern id="7">
+		<name>Adapter</name>
+		<categroy>Creational</categroy>
+		<intent>Decouple an abstraction from its</intent>
+	</design-patern>
+	<design-patern id="8">
+		<name>Bridge</name>
+		<categroy>Structural</categroy>
+		<intent>Decouple an abstraction from its</intent>
+	</design-patern>
+	 <design-patern id="9">
+		<name>Composite</name>
+		<categroy>Structural</categroy>
+		<intent>Decouple an abstraction from its</intent>
+	</design-patern>
+</design-patterns>
